@@ -1,6 +1,9 @@
 <template name="postsList">
   <div class="posts">
+    <!--looking for posts object then running
+    postItem template for each itteration -->
     {{#each posts}}
+      <!-- looking for postItem template -->
       {{> postItem}}
     {{/each}}
   </div>

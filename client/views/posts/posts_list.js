@@ -1,3 +1,6 @@
+// posts_list.js manager
+
+
 // var postsData = [
 //   {
 //     title: 'Introducing Telescope',
@@ -16,6 +19,7 @@
 //   }
 // ];
 
+// basically sends postsData to postsList template as Posts
 // Template.postsList.helpers({
 //   posts: postsData
 // });
